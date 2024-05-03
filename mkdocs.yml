@@ -3,3 +3,6 @@ site_url: https://blixgardhn.github.io/
 #dev_addr: https://localhost:8000/
 theme:
   name: material
+plugins:
+    - search
+    - mermaid2

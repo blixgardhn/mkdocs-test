@@ -3,9 +3,8 @@ Dokumentasjon som statisk webside
 
 ## Hærlig med statisk html
 
-´´´ mermaid 
-title: Node
----
+``` mermaid 
+
 flowchart LR
     id
-´´´
+```

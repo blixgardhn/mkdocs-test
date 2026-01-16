@@ -3,5 +3,4 @@ Dokumentasjon som statisk webside
 
 ## Hærlig med statisk html
 
-
-
+## Ja, eller hur?
